@@ -22,7 +22,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/elif1929" target"_blank">
+  <a href="https://github.com/elifsnl" target"_blank">
    <img width="14%" src="https://img.shields.io/badge/GitHub-8CCAF7?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31lmzhpy2migtudcggvvnrrth73y?si=ab96304453d248fa" target"_blank">
    <img width="15%" src="https://img.shields.io/badge/Spotify-8CCAF7?style=for-the-badge&logo=spotify&logoColor=white"></a>
@@ -33,4 +33,4 @@
 
 <br />
 
-<img  align="center" width="40%" src="https://anime-counter-production.up.railway.app/@luluwux?theme=adventuretime"> 
+<img  align="center" width="40%" src="https://anime-counter-production.up.railway.app/@elifsnl?theme=adventuretime"> 
